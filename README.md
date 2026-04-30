@@ -107,3 +107,15 @@ jupyter notebook spotify_analysis.ipynb
 ## 📄 License
 
 This project is open-source and available under the [MIT License](LICENSE).
+
+
+---
+
+## Kaggle Link for Large dataset
+
+https://www.kaggle.com/datasets/rishikarr/spotify-dataset/data
+
+---
+## Project Visualized Graphs 
+
+https://drive.google.com/drive/folders/1kOJs4rkKRJwKMpWb69RcVaZU_ZgoyPEB?usp=drive_link
